@@ -1,6 +1,5 @@
 # dockerAndComposeInstallScript
-==
-dockerAndComposeInstallScript
+>dockerAndComposeInstallScript
 
 ```
 git clone https://github.com/mengmanzbh/dockerAndComposeInstallScript.git
