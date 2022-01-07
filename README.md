@@ -2,7 +2,7 @@
 >dockerAndComposeInstallScript
 
 ```
-git clone https://github.com/mengmanzbh/dockerAndComposeInstallScript.git
+git clone https://github.com/yangmiok/dockerAndComposeInstallScript.git
 
 ```
 ```
@@ -20,6 +20,6 @@ chmod +x dockerAndComposeInstallScript.sh
 
 或者
 ```
-git clone https://github.com/mengmanzbh/dockerAndComposeInstallScript.git && cd dockerAndComposeInstallScript && chmod +x dockerAndComposeInstallScript.sh && ./dockerAndComposeInstallScript.sh
+git clone https://github.com/yangmiok/dockerAndComposeInstallScript.git && cd dockerAndComposeInstallScript && chmod +x dockerAndComposeInstallScript.sh && ./dockerAndComposeInstallScript.sh
 
 ```
