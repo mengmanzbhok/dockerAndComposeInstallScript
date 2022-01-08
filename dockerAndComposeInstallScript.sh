@@ -14,3 +14,5 @@ sudo service docker restart
 
 docker -v
 docker-compose -v
+
+
