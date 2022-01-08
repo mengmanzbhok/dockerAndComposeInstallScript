@@ -1,4 +1,9 @@
 #!/bin/bash
+
+
+apt-get update -y
+apt-get install tmux
+
 curl -fsSL https://get.docker.com/ | sh
 sudo usermod -aG docker root
 
